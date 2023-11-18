@@ -143,9 +143,6 @@ color: #C418E0;
  ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (9).png>)
-
-
-
+![Screenshot 2023-11-18 084010](https://github.com/Madhan213/Figma/assets/130206230/59c340ef-5d49-41ff-aabf-0ff8a94c8928)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
